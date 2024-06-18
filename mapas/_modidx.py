@@ -5,4 +5,4 @@ d = { 'settings': { 'branch': 'main',
                 'doc_host': 'https://Itzelep.github.io',
                 'git_url': 'https://github.com/Itzelep/mapas-',
                 'lib_path': 'mapas_'},
-  'syms': {'mapas_.core': {'mapas_.core.foo': ('core.html#foo', 'mapas_/core.py')}}}
+  'syms': {'mapas_.core': {'mapas_.core.sumar_numeros': ('core.html#sumar_numeros', 'mapas_/core.py')}}}
