@@ -2,8 +2,8 @@ project:
   output-dir: _docs
 
 website:
-  title: "mapas-"
-  site-url: "https://Itzelep.github.io/mapas-"
+  title: "mapas"
+  site-url: "https://Itzelep.github.io/mapas"
   description: "Mapas"
   repo-branch: main
-  repo-url: "https://github.com/Itzelep/mapas-"
+  repo-url: "https://github.com/Itzelep/mapas"

@@ -5,4 +5,8 @@ d = { 'settings': { 'branch': 'main',
                 'doc_host': 'https://Itzelep.github.io',
                 'git_url': 'https://github.com/Itzelep/mapas',
                 'lib_path': 'mapas'},
-  'syms': {'mapas.core': {'mapas.core.sumar_numeros': ('core.html#sumar_numeros', 'mapas/core.py')}}}
+  'syms': { 'mapas.core': { 'mapas.core.PrecipitationMap': ('core.html#precipitationmap', 'mapas/core.py'),
+                            'mapas.core.PrecipitationMap.__init__': ('core.html#precipitationmap.__init__', 'mapas/core.py'),
+                            'mapas.core.PrecipitationMap.plot': ('core.html#precipitationmap.plot', 'mapas/core.py'),
+                            'mapas.core.generate_fake_precipitation_data': ('core.html#generate_fake_precipitation_data', 'mapas/core.py')},
+            'mapas.prueba': {}}}
