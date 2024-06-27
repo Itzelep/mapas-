@@ -1,0 +1,42 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Operaciones basicas",
+    "section": "",
+    "text": "pip install mapas_",
+    "crumbs": [
+      "Operaciones basicas"
+    ]
+  },
+  {
+    "objectID": "index.html#install",
+    "href": "index.html#install",
+    "title": "Operaciones basicas",
+    "section": "",
+    "text": "pip install mapas_",
+    "crumbs": [
+      "Operaciones basicas"
+    ]
+  },
+  {
+    "objectID": "prueba.html",
+    "href": "prueba.html",
+    "title": "Operaciones basicas",
+    "section": "",
+    "text": "print(\"Suma:\", suma(5, 3))\nprint(\"Resta:\", resta(10, 4))\nprint(\"Multiplicación:\", multiplicacion(6, 7))\nprint(\"División:\", division(15, 3))\n\nSuma: 8\nResta: 6\nMultiplicación: 42\nDivisión: 5.0",
+    "crumbs": [
+      "Operaciones basicas"
+    ]
+  },
+  {
+    "objectID": "operaciones_basicas.html",
+    "href": "operaciones_basicas.html",
+    "title": "core",
+    "section": "",
+    "text": "division\n\n division (a, b)\n\n\n\n\nmultiplicacion\n\n multiplicacion (a, b)\n\n\n\n\nresta\n\n resta (a, b)\n\n\n\n\nsuma\n\n suma (a, b)",
+    "crumbs": [
+      "core"
+    ]
+  }
+]
